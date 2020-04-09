@@ -1,0 +1,6 @@
+E:\Projects\ComicDownloader\ComicDownloader\bin\Debug\ComicDownloader.exe.config
+E:\Projects\ComicDownloader\ComicDownloader\bin\Debug\ComicDownloader.exe
+E:\Projects\ComicDownloader\ComicDownloader\bin\Debug\ComicDownloader.pdb
+E:\Projects\ComicDownloader\ComicDownloader\obj\Debug\ComicDownloader.csprojAssemblyReference.cache
+E:\Projects\ComicDownloader\ComicDownloader\obj\Debug\ComicDownloader.exe
+E:\Projects\ComicDownloader\ComicDownloader\obj\Debug\ComicDownloader.pdb
